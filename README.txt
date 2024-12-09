@@ -1,5 +1,7 @@
 					README.TXT 
 
+A user registration web application with google captcha implementation
+
 Application development languages 
 
 Front-end: HTML, CSS, Java Script 
